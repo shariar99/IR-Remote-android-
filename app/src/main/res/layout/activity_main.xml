@@ -12,13 +12,6 @@
         android:onClick="sendIrSignal"
         android:gravity="center"
         android:text="Power" />
-    <Button
-        android:id="@+id/button_off"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="sendIrSignal"
-        android:gravity="center"
-        android:text="OFF" />
 
     <Button
         android:id="@+id/button_volume_up"
